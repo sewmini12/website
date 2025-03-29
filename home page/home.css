@@ -59,3 +59,59 @@ button:hover{
     background-color: rgb(236, 24, 187);
     scale:1.1;
 }
+.coursestop{
+    text-align: center;
+    font-weight: bold;
+    font-size:40px ;
+}
+.coursedes{
+    text-align: center;
+}
+main dl{
+    display: flex;
+    gap: 2%;
+    margin-left: 3%;
+    margin-right: 3%;
+
+
+}
+.coursecard{
+    border:30px ;
+    border-color:black;
+    background-color: #fdeeea;
+    border-radius: 5%;
+    text-align: center;
+    padding:2% ;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   
+}
+.coursecard:hover{
+    scale:1.1 ;
+}
+main dl dt{
+    font-weight: bold;
+    text-align: center;
+}
+.unis p{
+    text-align: center;
+}
+.unis h2{
+    text-align: center;
+    font-weight: bold;
+    font-size:40px ;
+}
+.card-cont{
+    display: flex;
+    justify-content: center;
+    gap:0.3%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.unicard img{
+height: 500px;
+width: 80%;
+border-radius: 5%;
+
+}
+
