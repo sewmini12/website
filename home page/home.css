@@ -114,4 +114,27 @@ width: 80%;
 border-radius: 5%;
 
 }
+.facilities h2{
+text-align: center;
+font-weight: bold;
+font-size:40px ;
 
+}
+.facilities p{
+text-align: center;
+
+}
+.faccardcont{
+    display: flex;
+    gap: 0.3%;
+    margin-left: 5%;
+    padding: 5%;
+    
+}
+.faccardcont img{
+    width: 70%;
+    height: 60%;
+}
+.faccard{
+    text-align: center;
+}
