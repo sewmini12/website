@@ -138,3 +138,40 @@ text-align: center;
 .faccard{
     text-align: center;
 }
+.test-cont{
+    display: flex;
+    gap: 5%;
+    margin: 5%;
+}
+.testimilogies h2{
+text-align: center;
+font-weight: bold;
+font-size:40px ;
+}
+.testimilogies p{
+    text-align: center;
+}
+.test-card img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    float: left;
+   
+}
+.contactus{
+    background-image:url(/images/contactus.jpeg);
+    background-position: center;
+    margin: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.contactus h1{
+    text-align: center;
+}
+footer h2{
+    text-align: center;
+
+}
+footer p{
+    text-align: center;
+}
